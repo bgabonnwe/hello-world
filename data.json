@@ -1,0 +1,16 @@
+{
+  [
+    {
+      "district_code": 70,
+      "district_name": "ABIM",
+      "region_code": 3,
+      "region_name": "NORTHERN"    
+    },
+    {
+      "district_code": 40,
+      "district_name": "AGOGA",
+      "region_code": 3,
+      "region_name": "NORTHERN"    
+    }
+  ]
+}
